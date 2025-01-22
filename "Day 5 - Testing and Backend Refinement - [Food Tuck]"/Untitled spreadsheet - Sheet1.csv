@@ -1,0 +1,8 @@
+Test Case Id,Test Case Description,,   Test steps,,Expected Result,,Actual Result,,Status,Severity Level,,Remarks
+TC001,Product Listing,,Opened Shop Page,,Product Displayed ,,Products Displayed,,Passes,Medium,,Handled Easily
+TC002,Product Detail,,Click On Product,,Details Showed,,Details Showed,,Passes,Low,,No issues Found
+TC003,Add to cart,, Add Food to cart ,,Food comes at cart,,Food Showed in cart,,Passed,Medium,,Worked As Expected
+TC004,Api error Handling,,Disconnected Api,,FallBack Ui Error,,Error Comes,,Passed,High,,No issues Found
+TC005,Perfomance Testing,,With LightHouse ,,More Than 80,,More than 80,,Passed,Medium,,No issues Found
+TC006,Resposiveness,,Resizing Browser,,Should Responsive,,Shows responsivenes,,Passed,Low,,Worked Fine
+TC007,Loading Time,,Measured  Loading,,Less than 3 sec,,Less  than 3 seconds,,Passed,Low,,Image makes Problem
