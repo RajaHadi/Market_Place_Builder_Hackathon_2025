@@ -168,9 +168,6 @@ Integration with tools like ShipEngine for shipping management.
 
 Focus on security and scalability.
 
-Order Management:
-
-Implement order placement and tracking functionality.
 
 Advanced Features:
 
